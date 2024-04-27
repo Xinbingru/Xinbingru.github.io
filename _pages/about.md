@@ -80,7 +80,6 @@ Qingbo Xu†, **Bingru Xin† (Co-first)**, Jing Wei, et al. [Troger's base poly
 </div>
 
 <br>
-<br>
 Zikang Qin, Xuan Feng, Dengguo Yin, **Bingru Xin**, et al. [Impact of Humidity on the CO<sub>2</sub>/N<sub>2</sub> Separation Performance of Pebax-MOF Mixed Matrix Membranes [J]](https://doi.org/10.1021/acs.iecr.3c02308). Industrial & Engineering Chemistry Research, 2023, 62(35): 14034-14046.
 
 # 🎖 Honors and Awards
@@ -98,5 +97,5 @@ Zikang Qin, Xuan Feng, Dengguo Yin, **Bingru Xin**, et al. [Impact of Humidity o
 -->
 
 # 💻 Internships
-- *2024.04 - 2024.10*, Dow<img src='./images/Dow.png' style='width: 4em;'>, **A**dvanced **D**igital **I**ntern for **S**cience and **E**ngineering (**ADISE**), Shanghai, China.
+- *2024.04 - 2024.10*, Dow<img src='./images/Dow.png' style='width: 4em;'>, **A**dvanced **D**igital **I**nternship for **S**cience and **E**ngineering (**ADISE**), Shanghai, China.
 - *2022.06 - 2024.10*, Tsingyun Intelligence Technology Co., Ltd, Chengdu, China.
