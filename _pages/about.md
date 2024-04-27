@@ -50,6 +50,9 @@ My research interest includes machine learning and deep learning for chemical en
 - [**Github Project**](https://github.com/Xinbingru/COFsMembraneML.git)
 - [See pdf paper]()
 
+</div>
+</div>
+
 <a name="A novel triage-based fault diagnosis method for chemical process"></a>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PSEP 2024</div><img src='images/TrCNN_toc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,12 +62,18 @@ Qucheng Tao, **Bingru Xin**, Yifang Zhang, et al. [A novel triage-based fault di
 - This paper presents a classification based convolutional neural network fault diagnosis method for chemical processes. The model architecture is divided into classification layer and diagnosis layer, and the fault set is divided into different types to the corresponding subnet layer, and the fault diagnosis model is developed for each subnetwork. The model can adapt to various fault types of chemical processes and has high diagnostic accuracy.
 - [See pdf paper](file/A novel triage-based fault diagnosis method for chemical precess.pdf)
 
+</div>
+</div>
+
 <a name="Troger's base polymeric membranes for CO<sub>2</sub> separation: a review"></a>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMCA 2023</div><img src='images/TB polymer_toc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Qingbo Xu†, **Bingru Xin† (Co-first)**, Jing Wei, et al. [Troger's base polymeric membranes for CO<sub>2</sub> separation: a review [J]](https://doi.org/10.1039/D3TA03017B), Journal of Materials Chemistry A, 2023, 11, 15600-15634.
 - This paper reviews and introduces gas separation membranes based on  Troger's base(TB) polymers for CO<sub>2</sub> separation. TB polymer is a polymer material connected by rigid V-shaped bridging bicyclic groups, which can enhance the rigidity of the polymer and prevent chain stacking. This paper focuses on the application of pure TB polymer membrane, functional TB polymer membrane, TB polymer-based mixed matrix membrane (MMM) and high temperature modified carbon molecular sieve(CMS)/thermal rearrangement(TR) membrane in the field of CO<sub>2</sub> separation. In addition, the future possible applications and improvement methods of TB polymer membranes are also proposed, further emphasizing the importance of data-driven for membrane separation.
+- [See pdf paper](file/Troger’s base polymeric membranes for CO2 separation a review.pdf)
+</div>
+</div>
 
 Zikang Qin, Xuan Feng, Dengguo Yin, **Bingru Xin**, et al. [Impact of Humidity on the CO<sub>2</sub>/N<sub>2</sub> Separation Performance of Pebax-MOF Mixed Matrix Membranes [J]](https://doi.org/10.1021/acs.iecr.3c02308). Industrial & Engineering Chemistry Research, 2023, 62(35): 14034-14046.
 
