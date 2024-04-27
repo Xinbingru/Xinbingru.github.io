@@ -20,22 +20,26 @@ redirect_from:
 I was born in Shanxi Province, China in December, 2000. From 2018 to 2022, I completed my Bachelor of Engineering degree from Sichuan University. In 2022, I will continue to study for a master's degree in engineering in the School of Chemical Engineering of Sichuan University, dedicated to the research of process systems engineering, and I am expected to graduate in 2025.
 
 My research interest includes machine learning and deep learning for chemical engineering materials and processes. At present, I have published four SCI papers, of which one is the first author, one is the co-first author, one is the second author and one is the other author. This is my <a href='https://scholar.google.com/citations?user=H7oehLIAAAAJ&hl=zh-CN'>google scholar<strong><span id='total_cit'></span></strong></a> 
-
+<!-- 
+(You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). 
+-->
 
 # 📖 Educations
-- *2022.06 - 2025.06 (expected)*, Sichuan University, School of Chemical Engineering, M.Phil in Chemical Engineering. 
-  GPA: 3.92/4.0, Ranking: top 3% of 230+
-- *2018.09 - 2022.06*, Sichuan University, School of Chemical Engineering, B.Eng in process Equipment & Control Engineering.
-  GPA: 3.67/4.0, Ranking: 7/81
+- *2022.06 - 2025.06 (expected)*, Sichuan University, School of Chemical Engineering
+  - M.Phil in Chemical Engineering
+  - GPA: 3.92/4.0, Ranking: top 3% of 230+
+- *2018.09 - 2022.06*, Sichuan University, School of Chemical Engineering
+  - B.Eng in process Equipment & Control Engineering
+  - GPA: 3.67/4.0, Ranking: 7/81
 - *2015.09 - 2018.06*, Kang jie Middle School, Yuncheng.
 
 
 # 🔥 News
 - *2024.04*: &nbsp;🎉🎉 The paper ['Combining interpretable machine learning and molecular simulation to advance the discovery of COF-based membrane for acid gas separation'](#ML & MS for COF-based membranes) was accepted by IECR!
-- *2024.03*: &nbsp;🎉🎉 I join Dow <img src='./images/Dow.png' style='width: 6em;'> as a digital intern in Shanghai, China.
+- *2024.03*: &nbsp;🎉🎉 I join Dow <img src='./images/Dow.png' style='width: 4em;'> as a digital intern in Shanghai, China.
 - *2024.01*: &nbsp;🎉🎉 The paper ['A novel triage-based fault diagnosis method for chemical process'](#A novel triage-based fault diagnosis method for chemical process) was accepted by PSEP!
 - *2024.04*: &nbsp;🎉🎉 The paper ['Troger's base polymeric membranes for CO<sub>2</sub> separation: a review'](#Troger's base polymeric membranes for CO<sub>2</sub> separation: a review) was accepted by JMCA. I hope this is a good start.
-- *2023.05*: &nbsp;🎉🎉 I created [my academic website](XXX) on Github.Welcome to visit! 😀
+- *2023.05*: &nbsp;🎉🎉 I created [my academic website](https://xinbingru.github.io/) on Github.Welcome to visit! 😀
 
 
 # 📝 Publications 
@@ -75,6 +79,8 @@ Qingbo Xu†, **Bingru Xin† (Co-first)**, Jing Wei, et al. [Troger's base poly
 </div>
 </div>
 
+<br>
+<br>
 Zikang Qin, Xuan Feng, Dengguo Yin, **Bingru Xin**, et al. [Impact of Humidity on the CO<sub>2</sub>/N<sub>2</sub> Separation Performance of Pebax-MOF Mixed Matrix Membranes [J]](https://doi.org/10.1021/acs.iecr.3c02308). Industrial & Engineering Chemistry Research, 2023, 62(35): 14034-14046.
 
 # 🎖 Honors and Awards
@@ -85,11 +91,12 @@ Zikang Qin, Xuan Feng, Dengguo Yin, **Bingru Xin**, et al. [Impact of Humidity o
 - *2019.10*, Outstanding student of the university for three consecutive years(2019-2021,Top 10%)
 - *2019.10*, First-class Scholarship (Top 5%)
 
-
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
 # 💻 Internships
-- *2024.04 - 2024.10*, Dow<img src='./images/Dow.png' style='width: 6em;'>, Advanced Digital Intern for Science and Engineering (ADISE), Shanghai, China.
+- *2024.04 - 2024.10*, Dow<img src='./images/Dow.png' style='width: 4em;'>, **A**dvanced **D**igital **I**ntern for **S**cience and **E**ngineering (**ADISE**), Shanghai, China.
 - *2022.06 - 2024.10*, Tsingyun Intelligence Technology Co., Ltd, Chengdu, China.
