@@ -21,9 +21,6 @@ I was born in Shanxi Province, China in December, 2000. From 2018 to 2022, I com
 
 My research interest includes machine learning and deep learning for chemical engineering materials and processes. At present, I have published four SCI papers, of which one is the first author, one is the co-first author, one is the second author and one is the other author. This is my <a href='https://scholar.google.com/citations?user=H7oehLIAAAAJ&hl=zh-CN'>google scholar<strong><span id='total_cit'></span></strong></a> 
 
-<i-- 
-(You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). 
--->
 
 # 📖 Educations
 - *2022.06 - 2025.06 (expected)*, Sichuan University, School of Chemical Engineering, M.Phil in Chemical Engineering. 
@@ -70,12 +67,6 @@ Qingbo Xu†, **Bingru Xin† (Co-first)**, Jing Wei, et al. [Troger's base poly
 - This paper reviews and introduces gas separation membranes based on  Troger's base(TB) polymers for CO<sub>2</sub> separation. TB polymer is a polymer material connected by rigid V-shaped bridging bicyclic groups, which can enhance the rigidity of the polymer and prevent chain stacking. This paper focuses on the application of pure TB polymer membrane, functional TB polymer membrane, TB polymer-based mixed matrix membrane (MMM) and high temperature modified carbon molecular sieve(CMS)/thermal rearrangement(TR) membrane in the field of CO<sub>2</sub> separation. In addition, the future possible applications and improvement methods of TB polymer membranes are also proposed, further emphasizing the importance of data-driven for membrane separation.
 
 Zikang Qin, Xuan Feng, Dengguo Yin, **Bingru Xin**, et al. [Impact of Humidity on the CO<sub>2</sub>/N<sub>2</sub> Separation Performance of Pebax-MOF Mixed Matrix Membranes [J]](https://doi.org/10.1021/acs.iecr.3c02308). Industrial & Engineering Chemistry Research, 2023, 62(35): 14034-14046.
-
-<i-- 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
--->
-
 
 # 🎖 Honors and Awards
 - *2023.10*, Outstanding graduate student (Top 10%)
