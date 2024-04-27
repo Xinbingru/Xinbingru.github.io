@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Bingru XIN(辛炳儒)"
-description              : "Working on machine learning and deep learning for chemical engineering materials and process. Process Systems Engineering(PSE) M.S. at Sichuan University. Looking for interested phd positions (25fall)."
+description              : "Process Systems Engineering(PSE) M.S. at Sichuan University. Applying for a phd position in 25fall."
 repository               : "Xinbingru/Xinbingru.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -43,8 +43,8 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : "https://www.linkedin.com/in/bingru-xin-2a64b2304/"
+  linkedin         : # "https://www.linkedin.com/in/bingru-xin-2a64b2304/"
+  dblp             : 
   orcid            : "https://orcid.org/0009-0006-4315-0000"
   pinterest        :
   soundcloud       :
