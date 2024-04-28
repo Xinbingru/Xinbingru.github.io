@@ -17,31 +17,40 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I was born in Shanxi Province, China in December, 2000. From 2018 to 2022, I completed my Bachelor of Engineering degree from Sichuan University. In 2022, I will continue to study for a master's degree in engineering in the School of Chemical Engineering of Sichuan University, dedicated to the research of process systems engineering, and I am expected to graduate in 2025.
+# 👨‍🎓 About Me
 
-My research interest includes machine learning and deep learning for chemical engineering materials and processes. At present, I have published four SCI papers, of which one is the first author, one is the co-first author, one is the second author and one is the other author. This is my <a href='https://scholar.google.com/citations?user=H7oehLIAAAAJ&hl=zh-CN'>google scholar<strong><span id='total_cit'></span></strong></a> 
+Welcome! I am now a master student in the School of Chemical Engineering of Sichuan University. My current work focuses on the material intersection of machine learning and molecular simulation. I am interested in the prediction and discovery of properties of porous materials (MOF/COF/PNN) and polymer materials through a combination of machine learning (deep learning), molecular simulation, and materials informatics.
+
+From 2018 to 2022, I completed my Bachelor of Engineering degree from School of Chemical Engineering, Sichuan University(四川大学化学工程学院). In 2022, I embarked on my journey towards a master's degree in the School of Chemical Engineering of Sichuan University, dedicated to the research of Process Systems Engineering (PSE). I anticipate completing my studies and earning my master's degree in 2025.
+
+In 2024, I joined Dow Chemical<img src='./images/Dow.png' style='width: 4em;'> as part of the "Advanced Digital Intern for Science and Engineering" program (one of 14 in Asia Pacific). I will use computer vision technology to detect anomalies in photovoltaic panel luminescence.
+
+My research interest includes machine learning and deep learning for chemical engineering materials and processes. At present, I have published four SCI papers, of which one is the first author, one is the co-first author, one is the second author and one is the other author. This is my <a href='https://scholar.google.com/citations?user=H7oehLIAAAAJ&hl=zh-CN'>google scholar<strong><span id='total_cit'></span></strong></a>.
+
+**Especially! I am looking for a possible PhD opportunity (25fall).** If you are looking for the right candidate or for any kind of academic exchange and collaboration, please do not hesitate to email me: [xinbingru@gmail.com](mailto:xinbingru@gmail.com).
 
 <!-- 
 (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). 
 -->
 
 # 📖 Educations
-- *2022.06 - 2025.06 (expected)*, Sichuan University(四川大学, SCU), School of Chemical Engineering.
-<br>
-  - M.Phil in Chemical Engineering. 
+
+- *2022.06 - 2025.06 (expected)*, Sichuan University(SCU), School of Chemical Engineering.
+  - M.Phil in Chemical Engineering, advised by [Yiyang Dai (戴一阳)](https://ce.scu.edu.cn/info/1092/9052.htm) and [Zhongde Dai (代忠德)](https://ccnft.scu.edu.cn/info/1124/1375.htm)
   - GPA: 3.92/4.0, Ranking: top 3% of 230+
-- *2018.09 - 2022.06*, Sichuan University(四川大学, SCU), School of Chemical Engineering
+- *2018.09 - 2022.06*, Sichuan University(SCU), School of Chemical Engineering。
   - B.Eng in process Equipment & Control Engineering.
   - GPA: 3.67/4.0, Ranking: 7/81
 - *2015.09 - 2018.06*, Kang jie Middle School, Yuncheng.
 
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉 Go to Florence, Italy for poster presentation at [ESCAPE34-PSE24](https://www.aidic.it/escape34-pse24/index.php) Academic Conference.
 - *2024.04*: &nbsp;🎉🎉 The paper ['Combining interpretable machine learning and molecular simulation to advance the discovery of COF-based membrane for acid gas separation'](#ML & MS for COF-based membranes) was accepted by IECR!
-- *2024.03*: &nbsp;🎉🎉 I join Dow <img src='./images/Dow.png' style='width: 4em;'> as a digital intern in Shanghai, China.
+- *2024.03*: &nbsp;🎉 I join Dow <img src='./images/Dow.png' style='width: 4em;'> as a digital intern in Shanghai, China.
 - *2024.01*: &nbsp;🎉🎉 The paper ['A novel triage-based fault diagnosis method for chemical process'](#A novel triage-based fault diagnosis method for chemical process) was accepted by PSEP!
 - *2024.04*: &nbsp;🎉🎉 The paper ['Troger's base polymeric membranes for CO<sub>2</sub> separation: a review'](#Troger's base polymeric membranes for CO<sub>2</sub> separation: a review) was accepted by JMCA. I hope this is a good start.
-- *2023.05*: &nbsp;🎉🎉 I created [my academic website](https://xinbingru.github.io/) on Github.Welcome to visit! 😀
+- *2023.05*: &nbsp; I created [my academic website](https://xinbingru.github.io/) on Github.Welcome to visit! 😀
 
 
 # 📝 Publications 
@@ -54,7 +63,7 @@ My research interest includes machine learning and deep learning for chemical en
 
 - In this paper, we propose a method combining interpretable machine learning and molecular simulation to discover the optimal acid gas separation membrane materials from more than 70,000 covalent organic frameworks(COFs)-based membranes. Based on GCMC and MD simulation to calculate gas permeability data, an automated machine learning model is constructed by extracting 20 feature descriptors. Chemical insights of membrane separation were obtained based on the characteristic contribution of SHAP analysis.
 - [**Github Project**](https://github.com/Xinbingru/COFsMembraneML.git)
-- [See pdf paper]()
+- [See pdf paper](file/xin-et-al-2024-combining-interpretable-machine-learning-and-molecular-simulation-to-advance-the-discovery-of-cof-based.pdf)
 
 </div>
 </div>
@@ -83,24 +92,22 @@ Qingbo Xu†, **Bingru Xin† (Co-first)**, Jing Wei, et al. [Troger's base poly
 
 <!-- other paper -->
 <br>
+Zikang Qin, Xuan Feng, Dengguo Yin, **Bingru Xin**, et al. [Impact of Humidity on the CO<sub>2</sub>/N<sub>2</sub> Separation Performance of Pebax-MOF Mixed Matrix Membranes [J]](https://doi.org/10.1021/acs.iecr.3c02308). Industrial & Engineering Chemistry Research, 2023, 62(35): 14034-14046.
 <br>
 
-Zikang Qin, Xuan Feng, Dengguo Yin, **Bingru Xin**, et al. [Impact of Humidity on the CO<sub>2</sub>/N<sub>2</sub> Separation Performance of Pebax-MOF Mixed Matrix Membranes [J]](https://doi.org/10.1021/acs.iecr.3c02308). Industrial & Engineering Chemistry Research, 2023, 62(35): 14034-14046.
-
-
 # 🎖 Honors and Awards
+- *2023.10*, [Brunp Scholarship](https://ce.scu.edu.cn/info/1013/13471.htm)
 - *2023.10*, Outstanding graduate student (Top 10%)
-- *2022.10*, First-class Postgraduate Scholarship (Full scholarship, Top 5%)
-- *2021.10*, The 12th Process Equipment Practice and Innovation Competition National First Prize (Top 5% in China)
+- *2022.10*, [First-class Postgraduate Scholarship](https://gs.scu.edu.cn/info/1147/5256.htm) (Full scholarship, Top 5%)
+- *2021.10*, [The 12th Process Equipment Practice and Innovation Competition National First Prize](http://www.gczbds.org/Web/Show?w=29&p=27&f=1957) (Top 3% in China).
 - *2020.10*, Outstanding Graduates (Top 10%)
-- *2019.10*, Outstanding student of the university for three consecutive years(2019-2021,Top 10%)
+- *2019.10*, Outstanding student of the university for three consecutive years (2019-2021,Top 10%)
 - *2019.10*, First-class Scholarship (Top 5%)
 
-<!--
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
+
+# 💬 Talks
+- *2024.06*, Combining automated machine learning and molecular simulation to advance the discovery of COF-based membrane for acid gas separation,[ESCAPE34-PSE24](https://www.aidic.it/escape34-pse24/index.php),Florence, ITALY.
+
 
 # 💻 Internships
 - *2024.04 - 2024.10*, Dow<img src='./images/Dow.png' style='width: 4em;'>, **A**dvanced **D**igital **I**nternship for **S**cience and **E**ngineering (**ADISE**), Shanghai, China.
