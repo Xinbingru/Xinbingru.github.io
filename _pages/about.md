@@ -68,9 +68,6 @@ My research interest includes machine learning and deep learning for chemical en
 </div>
 </div>
 
-</div>
-</div>
-
 <a name="A novel triage-based fault diagnosis method for chemical process"></a>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PSEP 2024</div><img src='images/TrCNN_toc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -90,9 +87,6 @@ Qucheng Tao, **Bingru Xin**, Yifang Zhang, et al. [A novel triage-based fault di
 Qingbo Xu†, **Bingru Xin† (Co-first)**, Jing Wei, et al. [Troger's base polymeric membranes for CO<sub>2</sub> separation: a review [J]](https://doi.org/10.1039/D3TA03017B), Journal of Materials Chemistry A, 2023, 11, 15600-15634.
 - This paper reviews and introduces gas separation membranes based on  Troger's base(TB) polymers for CO<sub>2</sub> separation. TB polymer is a polymer material connected by rigid V-shaped bridging bicyclic groups, which can enhance the rigidity of the polymer and prevent chain stacking. This paper focuses on the application of pure TB polymer membrane, functional TB polymer membrane, TB polymer-based mixed matrix membrane (MMM) and high temperature modified carbon molecular sieve(CMS)/thermal rearrangement(TR) membrane in the field of CO<sub>2</sub> separation. In addition, the future possible applications and improvement methods of TB polymer membranes are also proposed, further emphasizing the importance of data-driven for membrane separation.
 - [See pdf paper](file/Troger’s base polymeric membranes for CO2 separation a review.pdf)
-</div>
-</div>
-
 </div>
 </div>
 
