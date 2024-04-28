@@ -21,7 +21,7 @@ redirect_from:
 
 Welcome! I am now a master student in the School of Chemical Engineering of Sichuan University. My current work focuses on the material intersection of machine learning and molecular simulation. I am interested in the prediction and discovery of properties of porous materials (MOF/COF/PNN) and polymer materials through a combination of machine learning (deep learning), molecular simulation, and materials informatics.
 
-From 2018 to 2022, I completed my Bachelor of Engineering degree from School of Chemical Engineering, Sichuan University(四川大学化学工程学院). In 2022, I embarked on my journey towards a master's degree in the School of Chemical Engineering of Sichuan University, dedicated to the research of Process Systems Engineering (PSE). I anticipate completing my studies and earning my master's degree in 2025.
+From 2018 to 2022, I completed my Bachelor of Engineering degree from School of Chemical Engineering, Sichuan University (四川大学化学工程学院). In 2022, I embarked on my journey towards a master's degree in the School of Chemical Engineering of Sichuan University, dedicated to the research of Process Systems Engineering (PSE). I anticipate completing my studies and earning my master's degree in 2025.
 
 In 2024, I joined Dow Chemical<img src='./images/Dow.png' style='width: 4em;'> as part of the "Advanced Digital Intern for Science and Engineering" program (one of 14 in Asia Pacific). I will use computer vision technology to detect anomalies in photovoltaic panel luminescence.
 
@@ -35,13 +35,13 @@ My research interest includes machine learning and deep learning for chemical en
 
 # 📖 Educations
 
-- *2022.06 - 2025.06 (expected)*, Sichuan University(SCU), School of Chemical Engineering.
+- *2022.06 - 2025.06 (expected)*, Sichuan University(SCU), School of Chemical Engineering
   - M.Phil in Chemical Engineering, advised by [Yiyang Dai (戴一阳)](https://ce.scu.edu.cn/info/1092/9052.htm) and [Zhongde Dai (代忠德)](https://ccnft.scu.edu.cn/info/1124/1375.htm)
   - GPA: 3.92/4.0, Ranking: top 3% of 230+
-- *2018.09 - 2022.06*, Sichuan University(SCU), School of Chemical Engineering。
-  - B.Eng in process Equipment & Control Engineering.
+- *2018.09 - 2022.06*, Sichuan University(SCU), School of Chemical Engineering
+  - B.Eng in process Equipment & Control Engineering
   - GPA: 3.67/4.0, Ranking: 7/81
-- *2015.09 - 2018.06*, Kang jie Middle School, Yuncheng.
+- *2015.09 - 2018.06*, Kang jie Middle School, Yuncheng
 
 
 # 🔥 News
@@ -68,6 +68,9 @@ My research interest includes machine learning and deep learning for chemical en
 </div>
 </div>
 
+</div>
+</div>
+
 <a name="A novel triage-based fault diagnosis method for chemical process"></a>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PSEP 2024</div><img src='images/TrCNN_toc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -86,6 +89,9 @@ Qucheng Tao, **Bingru Xin**, Yifang Zhang, et al. [A novel triage-based fault di
 
 Qingbo Xu†, **Bingru Xin† (Co-first)**, Jing Wei, et al. [Troger's base polymeric membranes for CO<sub>2</sub> separation: a review [J]](https://doi.org/10.1039/D3TA03017B), Journal of Materials Chemistry A, 2023, 11, 15600-15634.
 - This paper reviews and introduces gas separation membranes based on  Troger's base(TB) polymers for CO<sub>2</sub> separation. TB polymer is a polymer material connected by rigid V-shaped bridging bicyclic groups, which can enhance the rigidity of the polymer and prevent chain stacking. This paper focuses on the application of pure TB polymer membrane, functional TB polymer membrane, TB polymer-based mixed matrix membrane (MMM) and high temperature modified carbon molecular sieve(CMS)/thermal rearrangement(TR) membrane in the field of CO<sub>2</sub> separation. In addition, the future possible applications and improvement methods of TB polymer membranes are also proposed, further emphasizing the importance of data-driven for membrane separation.
+- [See pdf paper](file/Troger’s base polymeric membranes for CO2 separation a review.pdf)
+</div>
+</div>
 
 </div>
 </div>
@@ -106,7 +112,7 @@ Zikang Qin, Xuan Feng, Dengguo Yin, **Bingru Xin**, et al. [Impact of Humidity o
 
 
 # 💬 Talks
-- *2024.06*, Combining automated machine learning and molecular simulation to advance the discovery of COF-based membrane for acid gas separation,[ESCAPE34-PSE24](https://www.aidic.it/escape34-pse24/index.php),Florence, ITALY.
+- *2024.06*, Combining automated machine learning and molecular simulation to advance the discovery of COF-based membrane for acid gas separation, [ESCAPE34-PSE24](https://www.aidic.it/escape34-pse24/index.php), Florence, ITALY.
 
 
 # 💻 Internships

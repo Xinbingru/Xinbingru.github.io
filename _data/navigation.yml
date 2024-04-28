@@ -15,8 +15,8 @@ main:
   - title: "Honors & Awards"
     url: "/#-honors-and-awards"
 
-#  - title: "Talks"
-#    url: "/#-invited-talks"
+  - title: "Talks"
+    url: "/#-invited-talks"
 
   - title: "Internships"
     url: "/#-internships"
