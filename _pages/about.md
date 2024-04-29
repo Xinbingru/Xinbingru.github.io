@@ -111,4 +111,4 @@ Zikang Qin, Xuan Feng, Dengguo Yin, **Bingru Xin**, et al. [Impact of Humidity o
 
 # 💻 Internships
 - *2024.04 - 2024.10*, Dow<img src='./images/Dow.png' style='width: 4em;'>, **A**dvanced **D**igital **I**nternship for **S**cience and **E**ngineering (**ADISE**), Shanghai, China.
-- *2022.06 - 2024.10*, Tsingyun Intelligence Technology Co., Ltd, Chengdu, China.
+- *2022.06 - 2022.10*, Tsingyun Intelligence Technology Co., Ltd, Chengdu, China.
