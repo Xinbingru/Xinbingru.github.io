@@ -49,8 +49,9 @@ My research interest includes machine learning and deep learning for chemical en
 - *2024.04*: &nbsp;🎉🎉 The paper ['Combining interpretable machine learning and molecular simulation to advance the discovery of COF-based membrane for acid gas separation'](#ML & MS for COF-based membranes) was accepted by IECR!
 - *2024.03*: &nbsp;🎉 I join Dow <img src='./images/Dow.png' style='width: 4em;'> as a digital intern in Shanghai, China.
 - *2024.01*: &nbsp;🎉🎉 The paper ['A novel triage-based fault diagnosis method for chemical process'](#A novel triage-based fault diagnosis method for chemical process) was accepted by PSEP!
-- *2024.04*: &nbsp;🎉🎉 The paper ['Troger's base polymeric membranes for CO<sub>2</sub> separation: a review'](#Troger's base polymeric membranes for CO<sub>2</sub> separation: a review) was accepted by JMCA. I hope this is a good start.
-- *2023.05*: &nbsp; I created [my academic website](https://xinbingru.github.io/) on Github.Welcome to visit! 😀
+- *2023.07*: &nbsp; Go to the University of Macau (UM) for a two-week Summer School to take courses on artificial intelligence and Big Data.
+- *2023.05*: &nbsp;🎉🎉 The paper ['Troger's base polymeric membranes for CO<sub>2</sub> separation: a review'](#Troger's base polymeric membranes for CO<sub>2</sub> separation: a review) was accepted by JMCA. I hope this is a good start.
+- *2023.04*: &nbsp; I created [my academic website](https://xinbingru.github.io/) on Github.Welcome to visit! 😀
 
 
 # 📝 Publications 
