@@ -60,7 +60,7 @@ My research interest includes machine learning and deep learning for chemical en
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IECR 2024</div><img src='images/COFsML_toc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Bingru Xin**, Minggao Feng, Min Cheng, et al. [Combining interpretable machine learning and molecular simulation to advance the discovery of COF-based membrane for acid gas separation [J]](https://doi.org/10.1021/acs.iecr.4c00855), Industrial & Engineering Chemistry Research, 2024, Accept.
+**<u>Bingru Xin</u>**, Minggao Feng, Min Cheng, et al. [Combining interpretable machine learning and molecular simulation to advance the discovery of COF-based membrane for acid gas separation [J]](https://doi.org/10.1021/acs.iecr.4c00855), Industrial & Engineering Chemistry Research, 2024, Accept.
 
 - In this paper, we propose a method combining interpretable machine learning and molecular simulation to discover the optimal acid gas separation membrane materials from more than 70,000 covalent organic frameworks(COFs)-based membranes. Based on GCMC and MD simulation to calculate gas permeability data, an automated machine learning model is constructed by extracting 20 feature descriptors. Chemical insights of membrane separation were obtained based on the characteristic contribution of SHAP analysis.
 - [**Github Project**](https://github.com/Xinbingru/COFsMembraneML.git)
@@ -73,7 +73,7 @@ My research interest includes machine learning and deep learning for chemical en
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PSEP 2024</div><img src='images/TrCNN_toc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Qucheng Tao, **Bingru Xin**, Yifang Zhang, et al. [A novel triage-based fault diagnosis method for chemical process [J]](https://doi.org/10.1016/j.psep.2024.01.072),Process Safety and Environmental Protection, 2024, 183: 1102-1116.
+Qucheng Tao, **<u>Bingru Xin</u>**, Yifang Zhang, et al. [A novel triage-based fault diagnosis method for chemical process [J]](https://doi.org/10.1016/j.psep.2024.01.072),Process Safety and Environmental Protection, 2024, 183: 1102-1116.
 
 - This paper presents a classification based convolutional neural network fault diagnosis method for chemical processes. The model architecture is divided into classification layer and diagnosis layer, and the fault set is divided into different types to the corresponding subnet layer, and the fault diagnosis model is developed for each subnetwork. The model can adapt to various fault types of chemical processes and has high diagnostic accuracy.
 - [See pdf paper](file/A novel triage-based fault diagnosis method for chemical precess.pdf)
@@ -93,9 +93,10 @@ Qingbo Xu†, **<u>Bingru Xin† (Co-first)</u>**, Jing Wei, et al. [Troger's ba
 
 <!-- other paper -->
 <br>
-Zikang Qin, Xuan Feng, Dengguo Yin, **Bingru Xin**, et al. [Impact of Humidity on the CO<sub>2</sub>/N<sub>2</sub> Separation Performance of Pebax-MOF Mixed Matrix Membranes [J]](https://doi.org/10.1021/acs.iecr.3c02308). Industrial & Engineering Chemistry Research, 2023, 62(35): 14034-14046.
+Zikang Qin, Xuan Feng, Dengguo Yin, **<u>Bingru Xin</u>**, et al. [Impact of Humidity on the CO<sub>2</sub>/N<sub>2</sub> Separation Performance of Pebax-MOF Mixed Matrix Membranes [J]](https://doi.org/10.1021/acs.iecr.3c02308). Industrial & Engineering Chemistry Research, 2023, 62(35): 14034-14046.
 <br>
-Guixin Wang, Nana Jing, **Bingru Xin**, Feiyang Wang. A method for regulating heat and deformation to improve the performance and safety of batteries and capacitors. (Chinese Patents: CN115882031A).2023, China National Intellectual Property Administration. 
+<br>
+Guixin Wang, Nana Jing, **<u>Bingru Xin</u>**, Feiyang Wang. A method for regulating heat and deformation to improve the performance and safety of batteries and capacitors. (Chinese Patents: CN115882031A).2023, China National Intellectual Property Administration. 
 <br>
 
 # 🎖 Honors and Awards
