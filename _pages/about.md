@@ -85,7 +85,7 @@ Qucheng Tao, **Bingru Xin**, Yifang Zhang, et al. [A novel triage-based fault di
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMCA 2023</div><img src='images/TB polymer_toc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Qingbo Xu†, **Bingru Xin† (Co-first)**, Jing Wei, et al. [Troger's base polymeric membranes for CO<sub>2</sub> separation: a review [J]](https://doi.org/10.1039/D3TA03017B), Journal of Materials Chemistry A, 2023, 11, 15600-15634.
+Qingbo Xu†, **<u>Bingru Xin† (Co-first)</u>**, Jing Wei, et al. [Troger's base polymeric membranes for CO<sub>2</sub> separation: a review [J]](https://doi.org/10.1039/D3TA03017B), Journal of Materials Chemistry A, 2023, 11, 15600-15634.
 - This paper reviews and introduces gas separation membranes based on  Troger's base(TB) polymers for CO<sub>2</sub> separation. TB polymer is a polymer material connected by rigid V-shaped bridging bicyclic groups, which can enhance the rigidity of the polymer and prevent chain stacking. This paper focuses on the application of pure TB polymer membrane, functional TB polymer membrane, TB polymer-based mixed matrix membrane (MMM) and high temperature modified carbon molecular sieve(CMS)/thermal rearrangement(TR) membrane in the field of CO<sub>2</sub> separation. In addition, the future possible applications and improvement methods of TB polymer membranes are also proposed, further emphasizing the importance of data-driven for membrane separation.
 - [See pdf paper](file/Troger’s base polymeric membranes for CO2 separation a review.pdf)
 </div>
@@ -94,6 +94,7 @@ Qingbo Xu†, **Bingru Xin† (Co-first)**, Jing Wei, et al. [Troger's base poly
 <!-- other paper -->
 <br>
 Zikang Qin, Xuan Feng, Dengguo Yin, **Bingru Xin**, et al. [Impact of Humidity on the CO<sub>2</sub>/N<sub>2</sub> Separation Performance of Pebax-MOF Mixed Matrix Membranes [J]](https://doi.org/10.1021/acs.iecr.3c02308). Industrial & Engineering Chemistry Research, 2023, 62(35): 14034-14046.
+<br>
 Guixin Wang, Nana Jing, **Bingru Xin**, Feiyang Wang. A method for regulating heat and deformation to improve the performance and safety of batteries and capacitors. (Chinese Patents: CN115882031A).2023, China National Intellectual Property Administration. 
 <br>
 
