@@ -36,7 +36,7 @@ My research interest includes machine learning and deep learning for chemical en
 # 📖 Educations
 
 - *2022.06 - 2025.06 (expected)*, Sichuan University(SCU), School of Chemical Engineering
-  - M.Phil in Chemical Engineering, advised by [Yiyang Dai (戴一阳)](https://ce.scu.edu.cn/info/1092/9052.htm) and [Zhongde Dai (代忠德)](https://ccnft.scu.edu.cn/info/1124/1375.htm)
+  - M.Phil in Chemical Engineering, advised by [Yiyang Dai (戴一阳)](https://scholar.google.com/citations?user=Upz3KwYAAAAJ&hl=zh-CN) and [Zhongde Dai (代忠德)](https://scholar.google.com/citations?user=VzwDPxYAAAAJ&hl=zh-CN)
   - GPA: 3.92/4.0, Ranking: top 3% of 230+
 - *2018.09 - 2022.06*, Sichuan University(SCU), School of Chemical Engineering
   - B.Eng in process Equipment & Control Engineering
@@ -94,6 +94,7 @@ Qingbo Xu†, **Bingru Xin† (Co-first)**, Jing Wei, et al. [Troger's base poly
 <!-- other paper -->
 <br>
 Zikang Qin, Xuan Feng, Dengguo Yin, **Bingru Xin**, et al. [Impact of Humidity on the CO<sub>2</sub>/N<sub>2</sub> Separation Performance of Pebax-MOF Mixed Matrix Membranes [J]](https://doi.org/10.1021/acs.iecr.3c02308). Industrial & Engineering Chemistry Research, 2023, 62(35): 14034-14046.
+Guixin Wang, Nana Jing, **Bingru Xin**, Feiyang Wang. A method for regulating heat and deformation to improve the performance and safety of batteries and capacitors. (Chinese Patents: CN115882031A).2023, China National Intellectual Property Administration. 
 <br>
 
 # 🎖 Honors and Awards
@@ -108,6 +109,7 @@ Zikang Qin, Xuan Feng, Dengguo Yin, **Bingru Xin**, et al. [Impact of Humidity o
 
 # 💬 Talks
 - *2024.06*, Combining automated machine learning and molecular simulation to advance the discovery of COF-based membrane for acid gas separation, [ESCAPE34-PSE24](https://www.aidic.it/escape34-pse24/index.php), Florence, ITALY.
+- *2023.10*, Machine learning in gas separation membranes, ITALY.Interconnected Chemical Engineering young Scholars Seminar,Emeishan, Sichuan, China.
 
 
 # 💻 Internships
