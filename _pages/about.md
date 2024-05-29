@@ -60,7 +60,7 @@ My research interest includes machine learning and deep learning for chemical en
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IECR 2024</div><img src='images/COFsML_toc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**<u>Bingru Xin</u>**, Minggao Feng, Min Cheng, et al. [Combining interpretable machine learning and molecular simulation to advance the discovery of COF-based membrane for acid gas separation [J]](https://doi.org/10.1021/acs.iecr.4c00855), Industrial & Engineering Chemistry Research, 2024, Accept.
+**<u>Bingru Xin</u>**, Minggao Feng, Min Cheng, et al. [Combining interpretable machine learning and molecular simulation to advance the discovery of COF-based membrane for acid gas separation [J]](https://doi.org/10.1021/acs.iecr.4c00855), Industrial & Engineering Chemistry Research, 2024, 63, 18, 8369–8382.
 
 - In this paper, we propose a method combining interpretable machine learning and molecular simulation to discover the optimal acid gas separation membrane materials from more than 70,000 covalent organic frameworks(COFs)-based membranes. Based on GCMC and MD simulation to calculate gas permeability data, an automated machine learning model is constructed by extracting 20 feature descriptors. Chemical insights of membrane separation were obtained based on the characteristic contribution of SHAP analysis.
 - [**Github Project**](https://github.com/Xinbingru/COFsMembraneML.git)
