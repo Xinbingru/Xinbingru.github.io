@@ -110,7 +110,7 @@ Guixin Wang, Nana Jing, **<u>Bingru Xin</u>**, Feiyang Wang. A method for regula
 
 
 # 💬 Talks
-- *2024.06*, Combining automated machine learning and molecular simulation to advance the discovery of COF-based membrane for acid gas separation, [ESCAPE34-PSE24](https://aidic.it/escape34-pse24/programma/pro.html),[Poster P/297](file/poster.pdf), Florence, ITALY.
+- *2024.06*, Combining automated machine learning and molecular simulation to advance the discovery of COF-based membrane for acid gas separation, [ESCAPE34-PSE24](https://aidic.it/escape34-pse24/programma/pro.html), [Poster P/297](file/poster.pdf), Florence, ITALY.
 - *2023.10*, Machine learning in gas separation membranes, Interconnected Chemical Engineering young Scholars Seminar, Emeishan, Sichuan, China.
 
 
