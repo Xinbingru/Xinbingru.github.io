@@ -45,13 +45,13 @@ My research interest includes machine learning and deep learning for chemical en
 
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉 Go to Florence, Italy for poster presentation at [ESCAPE34-PSE24](https://www.aidic.it/escape34-pse24/index.php) Academic Conference.
+- *2024.06*: &nbsp;🎉 Go to Florence, Italy for poster presentation at [ESCAPE34-PSE24](https://aidic.it/escape34-pse24/programma/pro.html) Academic Conference.
 - *2024.04*: &nbsp;🎉🎉 The paper ['Combining interpretable machine learning and molecular simulation to advance the discovery of COF-based membrane for acid gas separation'](#ML & MS for COF-based membranes) was accepted by IECR!
 - *2024.03*: &nbsp;🎉 I join Dow <img src='./images/Dow.png' style='width: 4em;'> as a digital intern in Shanghai, China.
 - *2024.01*: &nbsp;🎉🎉 The paper ['A novel triage-based fault diagnosis method for chemical process'](#A novel triage-based fault diagnosis method for chemical process) was accepted by PSEP!
 - *2023.07*: &nbsp; Go to the University of Macau (UM) for a two-week Summer School to take courses on artificial intelligence and Big Data.
 - *2023.05*: &nbsp;🎉🎉 The paper ['Troger's base polymeric membranes for CO<sub>2</sub> separation: a review'](#Troger's base polymeric membranes for CO<sub>2</sub> separation: a review) was accepted by JMCA. I hope this is a good start.
-- *2023.04*: &nbsp; I created [my academic website](https://xinbingru.github.io/) on Github.Welcome to visit! 😀
+- *2023.04*: &nbsp; I created [my academic website](https://xinbingru.github.io/) on Github. Welcome to visit! 😀
 
 
 # 📝 Publications 
@@ -110,7 +110,7 @@ Guixin Wang, Nana Jing, **<u>Bingru Xin</u>**, Feiyang Wang. A method for regula
 
 
 # 💬 Talks
-- *2024.06*, Combining automated machine learning and molecular simulation to advance the discovery of COF-based membrane for acid gas separation, [ESCAPE34-PSE24](https://www.aidic.it/escape34-pse24/index.php), Florence, ITALY.
+- *2024.06*, Combining automated machine learning and molecular simulation to advance the discovery of COF-based membrane for acid gas separation, [ESCAPE34-PSE24](https://aidic.it/escape34-pse24/programma/pro.html),[Poster P/297](file/poster.pdf), Florence, ITALY.
 - *2023.10*, Machine learning in gas separation membranes, Interconnected Chemical Engineering young Scholars Seminar, Emeishan, Sichuan, China.
 
 
